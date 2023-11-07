@@ -20,7 +20,13 @@ const userData =
         "username": "FlGator",
         "email": "flgator@yahoo.com",
         "password": "password12345"
-    }]
+    },
+    {
+        "username": "Ukrainka",
+        "email": "slava@yahoo.com",
+        "password": "slava12345"
+    }
+]
 
 const seedUsers = () => User.bulkCreate(userData);
 
