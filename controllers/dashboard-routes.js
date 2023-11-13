@@ -17,7 +17,9 @@ router.get('/', withAuth, async (req, res) => {
       posts,
     });
   } catch (err) {
-    res.redirect('login');
+    console.log('Here is the error')
+    console.log(err)
+    // res.redirect('login');
   }
 });
 
