@@ -1,9 +1,9 @@
 :root {
-    --primary: #ccdad1;
-    --secondary: #dce9d5;
-    --tertiary: #788585;
+    --primary: #d586d4;
+    --secondary: #55b46e;
+    --tertiary: #f57f42;
     --light-dark: #a1a0a1;
-    --dark: #201110;
+    --dark: #481145;
     --border-radius: .3rem;
 }
 
@@ -15,7 +15,7 @@ body {
     background-color: var(--primary);
     margin: 0;
     padding: 0;
-    font-family: "IBM Plex Sans", sans-serif;
+    font-family:'Times New Roman', Times, serif;
     color: var(--dark);
     line-height: 1.5;
     font-size: 24px;
@@ -66,7 +66,7 @@ p {
     color: white;
     border: none;
     outline: none;
-    background-color: var(--light-dark);
+    background-color: var(--secondary); 
     transform: translate(-1px, -1px);
 }
 
