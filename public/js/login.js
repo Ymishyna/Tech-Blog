@@ -1,5 +1,3 @@
-//  login submission 
-
 const loginFormHandler = async function(event) {
   event.preventDefault();
 
