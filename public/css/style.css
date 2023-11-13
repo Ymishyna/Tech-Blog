@@ -1,9 +1,9 @@
 :root {
-    --primary: #ccdad1;
-    --secondary: #9caea9;
-    --tertiary: #788585;
-    --light-dark: #6f6866;
-    --dark: #38302e;
+    --primary: #d6ccda;
+    --secondary: #ab9cae;
+    --tertiary: #a589a8;
+    --light-dark: #aa83b4;
+    --dark: #43214f;
     --border-radius: 0.3rem;
   }
   
@@ -15,7 +15,7 @@
     background-color: var(--primary);
     margin: 0;
     padding: 0;
-    font-family: "IBM Plex Sans", sans-serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: var(--dark);
     line-height: 1.5;
     font-size: 16px;
@@ -130,7 +130,9 @@
     background-color: var(--primary);
     color: var(--dark);
     padding: 0 10px;
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border-radius: var(--border-radius);
     box-shadow: 6px 5px var(--light-dark);
   }
