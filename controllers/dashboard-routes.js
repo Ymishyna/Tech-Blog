@@ -2,12 +2,13 @@ const router = require('express').Router();
 const { Post } = require('../models/');
 const withAuth = require('../utils/auth');
 
-router.get('/', withAuth, async (req, res) => {
+router.get('/', async (req, res) => {
   try {
+    console.log('Hit Dashboard route');
     const postData = await Post.findAll({
-      where: {
-        userId: req.session.userId,
-      },
+    // where: {
+    //   userId: req.session.userId,
+    // },
     });
 
     const posts = postData.map((post) => post.get({ plain: true }));
@@ -17,9 +18,9 @@ router.get('/', withAuth, async (req, res) => {
       posts,
     });
   } catch (err) {
-    console.log('Here is the error')
+    console.log('Here is the error in dashboard rote ', err);
     console.log(err)
-    // res.redirect('login');
+    res.redirect('login');
   }
 });
 
