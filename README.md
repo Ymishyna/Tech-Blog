@@ -12,10 +12,8 @@ YMy task is to build a CMS (Content Management System)-style blog site similar t
 - [Mock-Up](#mock-up)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [Links](#links)
 - [Questions](#questions)
-- [Walkthrough Video](#walkthrough-video)
-
+- [Links](#links)
 
 ## User Story
 
@@ -92,21 +90,3 @@ Find me on GitHub: [Ymishyna](https://github.com/Ymishyna)
 ## Links 
 
 [Deployed Site: https://floating-refuge-70464-b9cf1235304b.herokuapp.com/](https://floating-refuge-70464-b9cf1235304b.herokuapp.com/)
-
-
-
-
-
-
-
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the functional, deployed application.
-
-* The URL of the GitHub repository, with a unique name and a readme describing the project.
-
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
