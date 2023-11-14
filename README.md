@@ -12,6 +12,7 @@ YMy task is to build a CMS (Content Management System)-style blog site similar t
 - [Mock-Up](#mock-up)
 - [Installation](#installation)
 - [Contributing](#contributing)
+- [Links](#links)
 - [Questions](#questions)
 - [Walkthrough Video](#walkthrough-video)
 
@@ -82,64 +83,22 @@ The following animation demonstrates the application functionality:
 
 Any Contribution is more than welcome!
 
+## Questions
+
+If you have any question, Email me at: yana.mishina.92@gmail.com
+
+Find me on GitHub: [Ymishyna](https://github.com/Ymishyna)
+
 ## Links 
 
-[Deployed Site: https://frozen-sierra-64365.herokuapp.com/](https://frozen-sierra-64365.herokuapp.com/)
+[Deployed Site: https://floating-refuge-70464-b9cf1235304b.herokuapp.com/](https://floating-refuge-70464-b9cf1235304b.herokuapp.com/)
 
 
-## Grading Requirements
 
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
 
-This Challenge is graded based on the following criteria:
 
-### Technical Acceptance Criteria: 40%
 
-* Satisfies all of the preceding acceptance criteria plus the following:
 
-    * Application’s folder structure follows the Model-View-Controller paradigm.
-
-    * Uses the [express-handlebars](https://www.npmjs.com/package/express-handlebars) package to implement Handlebars.js for your Views.
-
-    * Application must be deployed to Heroku.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
-
-### Application Quality: 15%
-
-* User experience is intuitive and easy to navigate.
-
-* User interface style is clean and polished.
-
-* Application resembles the mock-up functionality provided in the Challenge instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme file with description, screenshot, and link to deployed application.
 
 ## Review
 
